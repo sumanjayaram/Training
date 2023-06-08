@@ -1,0 +1,179 @@
+What is Spring Cloud?
+a) A cloud computing platform developed by Spring Framework
+b) A distributed system framework for building cloud-native applications Correct
+c) A cloud storage service provided by Spring Technologies
+d) A machine learning library developed by Spring Framework
+
+Which of the following components is used for service discovery in Spring Cloud?
+a) Spring Data
+b) Spring Security
+c) Netflix Eureka Correct
+d) Spring Boot
+
+Which Spring Cloud component provides a distributed configuration management solution?
+a) Spring Cloud Load Balancer
+b) Spring Cloud Gateway
+c) Spring Cloud Config Correct
+d) Spring Cloud Stream
+
+Which protocol is commonly used for communication between microservices in Spring Cloud?
+a) HTTP Correct
+b) FTP
+c) UDP
+d) SMTP
+
+Which Spring Cloud component is used for client-side load balancing?
+a) Spring Cloud Circuit Breaker
+b) Spring Cloud Config
+c) Spring Cloud Gateway
+d) Spring Cloud Load Balancer Correct
+
+Which Spring Cloud component provides fault tolerance and resilience for distributed systems?
+a) Spring Cloud Netflix Correct
+b) Spring Cloud Stream
+c) Spring Cloud Security
+d) Spring Cloud Data Flow
+
+Which messaging middleware is commonly used with Spring Cloud Stream?
+a) RabbitMQ Correct
+b) Apache Kafka
+c) ActiveMQ
+d) IBM MQ
+
+Which of the following is a key principle of Spring Cloud?
+a) Loose coupling Correct
+b) Strong typing
+c) Monolithic architecture
+d) Synchronous communication
+
+Which Spring Cloud component provides an API gateway for routing and filtering requests?
+a) Spring Cloud Gateway Correct
+b) Spring Cloud Config
+c) Spring Cloud Sleuth
+d) Spring Cloud Data Flow
+
+Which tool can be used for monitoring and distributed tracing in Spring Cloud applications?
+a) Spring Boot Actuator
+b) Spring Cloud Netflix
+c) Spring Cloud Sleuth Correct
+d) Spring Cloud Load Balancer
+
+Which authentication and authorization framework is commonly used with Spring Cloud?
+a) OAuth 1.0
+b) JWT (JSON Web Tokens)
+c) Basic Authentication
+d) SAML (Security Assertion Markup Language) Correct
+
+Which component in Spring Cloud provides circuit-breaking and fault tolerance for microservices?
+a) Spring Cloud Stream
+b) Spring Cloud Load Balancer
+c) Spring Cloud Circuit Breaker Correct
+d) Spring Cloud Config
+
+Which messaging protocol is used by default in Spring Cloud Stream?
+a) AMQP (Advanced Message Queuing Protocol) Correct
+b) STOMP (Simple Text Oriented Messaging Protocol)
+c) MQTT (Message Queuing Telemetry Transport)
+d) Kafka
+
+Which Spring Cloud component provides distributed tracing capabilities for microservices?
+a) Spring Cloud Sleuth Correct
+b) Spring Cloud Bus
+c) Spring Cloud Contract
+d) Spring Cloud Vault
+
+Which Spring Cloud component enables centralized configuration management for microservices?
+a) Spring Cloud Gateway
+b) Spring Cloud Config Correct
+c) Spring Cloud Security
+d) Spring Cloud Netflix
+
+Which protocol is commonly used for inter-service communication in Spring Cloud?
+a) HTTP
+b) RMI (Remote Method Invocation)
+c) gRPC (Google Remote Procedure Call) Correct
+d) WebSockets
+
+Which component in Spring Cloud provides dynamic routing and load balancing capabilities?
+a) Spring Cloud Load Balancer Correct
+b) Spring Cloud Config
+c) Spring Cloud Gateway
+d) Spring Cloud Stream
+
+Which Spring Cloud component is used for event-driven microservices?
+a) Spring Cloud Bus
+b) Spring Cloud Circuit Breaker
+c) Spring Cloud Sleuth
+d) Spring Cloud Stream Correct
+
+Which database is commonly used as a service registry in Spring Cloud?
+a) PostgreSQL
+b) MySQL Correct
+c) MongoDB
+d) Netflix Eureka
+
+Which tool can be used for centralized logging in Spring Cloud applications?
+a) Log4j
+b) Logstash Correct
+c) Slf4j
+d) Logback
+
+Which component of Spring Cloud provides distributed tracing capabilities for microservices?
+a) Spring Cloud Config
+b) Spring Cloud Netflix
+c) Spring Cloud Sleuth Correct
+d) Spring Cloud Stream
+
+What is the purpose of Spring Cloud Circuit Breaker?
+a) To provide distributed caching for microservices
+b) To implement load balancing for microservices
+c) To enable fault tolerance and resilience in microservices Correct
+d) To facilitate service discovery in microservices
+
+Which protocol is commonly used for inter-process communication in Spring Cloud?
+a) REST
+b) SOAP
+c) AMQP
+d) gRPC Correct
+
+Which Spring Cloud component is used for centralized logging and monitoring?
+a) Spring Cloud Stream
+b) Spring Cloud Sleuth
+c) Spring Cloud Gateway
+d) Spring Cloud Config
+
+What is the purpose of the Spring Cloud Config server?
+a) To provide a centralized configuration management solution Correct
+b) To enable distributed tracing in microservices
+c) To implement load balancing for microservices
+d) To facilitate service discovery in microservices
+
+Which Spring Cloud component provides a message-driven microservices framework?
+a) Spring Cloud Stream Correct
+b) Spring Cloud Load Balancer
+c) Spring Cloud Gateway
+d) Spring Cloud Circuit Breaker
+
+Which of the following is NOT a supported service registry in Spring Cloud?
+a) Netflix Eureka
+b) Consul
+c) ZooKeeper
+d) RabbitMQ
+
+What is the purpose of the Spring Cloud Data Flow project?
+a) To provide distributed caching for microservices Correct
+b) To enable distributed tracing in microservices
+c) To implement event-driven architectures
+d) To facilitate service discovery in microservices
+
+Which component of Spring Cloud provides support for declarative REST clients?
+a) Spring Cloud Config
+b) Spring Cloud Load Balancer
+c) Spring Cloud Netflix
+d) Spring Cloud Feign Correct
+
+Which Spring Cloud component provides a circuit breaker implementation based on the Hystrix library?
+a) Spring Cloud Circuit Breaker Correct
+b) Spring Cloud Netflix
+c) Spring Cloud Stream
+d) Spring Cloud Gateway
