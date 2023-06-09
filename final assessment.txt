@@ -1,0 +1,88 @@
+What is the Saga pattern?
+a) A design pattern for managing long-running transactions
+b) A pattern for implementing microservices architectures
+c) A pattern for handling data consistency in distributed systems - Correct
+d) A pattern for handling failures and retries in messaging systems
+
+Which statement best describes the Saga pattern?
+a) It uses a centralized coordinator to manage the execution of distributed transactions
+b) It relies on a decentralized approach where each service manages its own transactions
+c) It guarantees strong consistency across distributed systems
+d) It is primarily used for handling communication failures between microservices - Correct
+
+In the Saga pattern, what is a compensating transaction?
+a) A transaction that compensates for a failed transaction and undoes its effects - Correct
+b) A transaction that compensates for a successful transaction and reverts its effects
+c) A transaction that handles communication failures between microservices
+d) A transaction that ensures data consistency across distributed systems
+
+Which of the following is a characteristic of the Saga pattern?
+a) It guarantees ACID properties for distributed transactions
+b) It provides a simple and lightweight solution for managing long-running transactions
+c) It eliminates the need for distributed transactions altogether - Correct
+d) It can only be implemented using a synchronous communication model
+
+What is the main advantage of using the Saga pattern?
+a) It provides strong consistency across distributed systems - Correct
+b) It simplifies the management of long-running transactions
+c) It reduces the need for compensating transactions
+d) It eliminates the possibility of data inconsistency in distributed systems
+
+What does CQRS stand for?
+a) Command Query Responsibility Segregation - Correct
+b) Centralized Query Response System
+c) Concurrent Query Response Strategy
+d) Continuous Query Result Segmentation
+
+What is the main idea behind CQRS?
+a) Separating the responsibility of handling commands from the responsibility of handling queries - Correct
+b) Combining commands and queries into a single interface for simplicity
+c) Eliminating the need for a database in an application architecture
+d) Enabling distributed transactions across multiple microservices
+
+Which of the following statements best describes the relationship between commands and queries in CQRS?
+a) Commands modify the state of the system, while queries retrieve data from the system.
+b) Commands and queries perform the same actions but with different naming conventions.
+c) Commands and queries are interchangeable and can be used interchangeably in the system.
+d) Commands and queries are completely unrelated in the CQRS pattern. - Correct
+
+What is an advantage of using CQRS in an application architecture?
+a) It simplifies the implementation of complex business logic. - Correct
+b) It improves the performance of read operations by optimizing the data model.
+c) It eliminates the need for security measures in the application.
+d) It allows for real-time data synchronization across multiple databases.
+
+Which of the following is a typical component in a CQRS-based system?
+a) Command Bus
+b) Query Bus
+c) Event Store
+d) All of the above- Correct
+What is the primary purpose of transaction management in Spring?
+a) To handle HTTP transactions in web applications
+b) To ensure data consistency and integrity in database operations - Correct
+c) To manage concurrent access to shared resources
+d) To handle communication failures between microservices
+
+Which annotation is commonly used to define transactional behavior in Spring?
+a) @Transactional - Correct
+b) @Transaction
+c) @TransactionalBehavior
+d) @TransactionManager
+
+What is the default propagation behavior of Spring transactions?
+a) REQUIRED - Correct
+b) REQUIRES_NEW
+c) MANDATORY
+d) SUPPORTS
+
+Which transaction isolation level provides the highest level of concurrency but may result in non-repeatable reads and phantom reads?
+a) READ_UNCOMMITTED
+b) READ_COMMITTED
+c) REPEATABLE_READ
+d) SERIALIZABLE - Correct
+
+Which of the following is a common strategy for transaction management in Spring?
+a) Programmatic transaction management
+b) Declarative transaction management
+c) Both a) and b) - Correct
+d) None of the above
